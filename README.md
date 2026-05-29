@@ -35,9 +35,7 @@
       background: linear-gradient(180deg, #102341 0%, #0a203d 50%, #091d3a 100%);
       overflow-x:hidden;
       font-family:var(--sans);
-    }
-
-    body::before{
+    }body::before{
       content:"";
       position:fixed;
       inset:0;
